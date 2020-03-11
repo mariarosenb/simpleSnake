@@ -1,6 +1,8 @@
 # simpleSnake game
 This is the simplest implementation of a Snake game using OOP.
 
+![](https://ibb.co/jftY5nt)
+
 Instructions
 -----------------------------------
 You can use "wasd" or arrows keys.
