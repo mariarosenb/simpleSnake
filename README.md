@@ -1,7 +1,7 @@
 # simpleSnake game
 This is the simplest implementation of a Snake game using OOP.
 
-![](https://ibb.co/jftY5nt)
+<a href="https://ibb.co/jftY5nt"><img src="https://i.ibb.co/dMZvc8Z/photo-2020-03-11-20-28-07.jpg" alt="photo-2020-03-11-20-28-07" border="0"></a>
 
 Instructions
 -----------------------------------
